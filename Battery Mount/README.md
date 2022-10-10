@@ -1,0 +1,8 @@
+# Battery Mount
+
+- Replaces "reverse" configuration back plate
+- Print from the .stl files, Autodesk files are also provided for editing your own. 
+- Fits this [Anker 20k mAh PD battery](https://www.amazon.com/Anker-Portable-PowerCore-Essential-Compatible/dp/B08LG2X98F)
+- This design replaces elements and uses straps from the [Amazon Basics GoPro mount](https://www.amazon.com/AmazonBasics-Chest-Mount-Harness-cameras/dp/B01D3I8A7A)
+
+![top view](https://raw.githubusercontent.com/katruud/Catstrap-VR-Tracker-Mounts/main/Battery%20Mount/images/back-mount.png)

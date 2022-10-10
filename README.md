@@ -7,3 +7,5 @@ Folders are as follows:
 - Chest + Woojer are chest mounts for a tracker and Woojer
 - Dongle Case is an alternative dongle housing with clearance for added heatsinks
 - Feet are tracker mounts for lacing into shoes
+- Battery mount is a holder for a wireless PD battery
+- Nano strap mount is a case for an RP 2040 microcontroller to attach to a 1/4" mount
