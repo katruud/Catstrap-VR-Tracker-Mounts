@@ -8,4 +8,4 @@
 - This design replaces elements and uses straps from the [Amazon Basics GoPro mount](https://www.amazon.com/AmazonBasics-Chest-Mount-Harness-cameras/dp/B01D3I8A7A)
 
 ![chest mount straps](https://raw.githubusercontent.com/katruud/Catstrap-VR-Tracker-Mounts/main/Chest/images/alternate-chest.png)
-![updated front adapter](https://raw.githubusercontent.com/katruud/Catstrap-VR-Tracker-Mounts/main/Chest/images/updated-front-adapter.png)
+![updated front adapter](https://github.com/katruud/Catstrap-VR-Tracker-Mounts/blob/main/Chest/images/updated-front-adapter.PNG)
