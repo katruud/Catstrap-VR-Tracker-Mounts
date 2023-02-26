@@ -5,5 +5,5 @@
 - tundra_shoe_wide is for shoes with a lacing gap
 - Print from the .stl files, Autodesk files are also provided for editing your own. 
 
-![shoe view](https://raw.githubusercontent.com/katruud/Catstrap-VR-Tracker-Mounts/main/Feet/images/shoe_attached.png)
-![tracker view](https://raw.githubusercontent.com/katruud/Catstrap-VR-Tracker-Mounts/main/Feet/images/shoe_mount.png)
+![shoe view](https://raw.githubusercontent.com/katruud/Catstrap-VR-Tracker-Mounts/main/Foot/images/shoe_attached.png)
+![tracker view](https://raw.githubusercontent.com/katruud/Catstrap-VR-Tracker-Mounts/main/Foot/images/shoe_mount.png)
