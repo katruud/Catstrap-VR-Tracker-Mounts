@@ -5,4 +5,4 @@
 - This design replaces elements and uses straps from the [Amazon Basics GoPro mount](https://www.amazon.com/AmazonBasics-Chest-Mount-Harness-cameras/dp/B01D3I8A7A)
 
 ![chest print](https://raw.githubusercontent.com/katruud/Catstrap-VR-Tracker-Mounts/main/Chest%20Woojer/images/print-woojer.jpg)
-![chest mount](https://raw.githubusercontent.com/katruud/Catstrap-VR-Tracker-Mounts/main/Chest%20Woojer/images/woojer-mount.jpg)
+![chest mount](https://raw.githubusercontent.com/katruud/Catstrap-VR-Tracker-Mounts/main/Chest%20Woojer/images/woojer-mount.png)
