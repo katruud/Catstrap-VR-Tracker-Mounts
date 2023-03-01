@@ -4,5 +4,5 @@
 - May increase stabilty by lowering chip temperatures
 - Print from the .stl files, Autodesk files are also provided for editing your own. 
 
-![top view](https://raw.githubusercontent.com/katruud/Catstrap-VR-Tracker-Mounts/main/Dongle%20Case/images/dongle_top.jpg)
-![bottom view](https://raw.githubusercontent.com/katruud/Catstrap-VR-Tracker-Mounts/main/Dongle%20Case/images/dongle_bottom.jpg)
+![top view](https://raw.githubusercontent.com/katruud/Catstrap-VR-Tracker-Mounts/main/Misc/Dongle%20Case/images/dongle_top.jpg)
+![bottom view](https://raw.githubusercontent.com/katruud/Catstrap-VR-Tracker-Mounts/main/Misc/Dongle%20Case/images/dongle_bottom.jpg)
