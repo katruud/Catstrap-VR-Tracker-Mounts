@@ -9,5 +9,5 @@
 - woojer_chest_back_adapter may be used to mount a Woojer in front or behind
 - This design replaces elements and uses straps from the [Amazon Basics GoPro mount](https://www.amazon.com/AmazonBasics-Chest-Mount-Harness-cameras/dp/B01D3I8A7A)
 
-![chest view](https://raw.githubusercontent.com/katruud/Catstrap-VR-Tracker-Mounts/main/Chest%20%2B%20Woojer/images/chest-tracker.png)
-![woojer view](https://raw.githubusercontent.com/katruud/Catstrap-VR-Tracker-Mounts/main/Chest%20%2B%20Woojer/images/woojer-mount.png)
+![chest view](https://raw.githubusercontent.com/katruud/Catstrap-VR-Tracker-Mounts/main/Misc/Original%20Chest%20%2B%20Woojer/images/chest-tracker.png)
+![woojer view](https://raw.githubusercontent.com/katruud/Catstrap-VR-Tracker-Mounts/main/Misc/Original%20Chest%20%2B%20Woojer/images/woojer-mount.png)
